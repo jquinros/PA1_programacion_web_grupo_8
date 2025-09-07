@@ -2,10 +2,9 @@
 
 ## 👥 Integrantes
 - Danny Gorddy Huaman Chavez  ----  100 %
-- - Participante 2: ______________________  
-- Participante 3: ______________________  
-- Participante 4: ______________________  
-- Participante 5: ______________________  
+- Joan Orlando Quintana Rosales --- 100 %
+- Jhon Asto Alfaro            ----  100 % 
+- Isaac Curitomay             ----  100 %
 
 ---
 
